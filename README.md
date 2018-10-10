@@ -1,6 +1,6 @@
 # gitTest
 
-some changes
+some changes and adaptions
 
 some extra changes after restarting the terminal
 
